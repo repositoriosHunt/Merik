@@ -1,0 +1,17 @@
+#boton_buscar{
+  cursor: pointer;
+}
+#boton_buscar_mini{
+  cursor: pointer;
+}
+
+#campo_buscar{
+  color: #000;
+}
+#campo_buscar_mini{
+  color: #000;
+   height: 30px;
+   position: relative;
+}
+
+

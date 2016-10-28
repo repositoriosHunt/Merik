@@ -1,0 +1,27 @@
+.mapa_busqueda{
+	padding: 20px;
+	background-image: url('https://merik.dev/img/fondo_2.png');
+}
+
+
+
+
+#map_canvas {                  
+	width: 100%;
+	min-height: 500px;
+}
+
+
+
+		/*Titulo de Mapas*/		
+	.Bold_titulo{
+		font-family: 'Lato', sans-serif;
+		font-weight: 900;
+		font-size: 20px;
+	}	
+	
+	.Ultra_texto{
+		font-family: 'Lato', sans-serif;
+		font-weight: 300; 
+		font-size: 13px;
+	}	
