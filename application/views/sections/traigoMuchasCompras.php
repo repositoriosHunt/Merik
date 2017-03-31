@@ -2,7 +2,7 @@
     	<div class="wrap" >
         <header class="landingPage">
             <div class="slider">
-            	<div class="title">Para que no tengas que bajar de tu auto, <br> nada mejor que una puerta automática MERIK</div>
+            	<div class="title">--Para que no tengas que bajar de tu auto, <br> nada mejor que una puerta automática MERIK</div>
 				<div class="background safoabrir"></div>
 				<div class="logoLP">
 					<img src="<?php echo base_url(); ?>img/logoBlco.jpg" height="69" width="254" alt="Merik">
